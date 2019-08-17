@@ -2,6 +2,6 @@
 def onference_badges(neme)
   name = [Edsger, Ada, Charles, Alan, Grace, Linus,  Matz]
   name.each do |attendees|
-    puts 
+    puts "Hello, my name is #{attendees}."
   end
 end 
