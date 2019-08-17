@@ -1,4 +1,5 @@
 # Write your code here.
-def batch_badge_creator(neme)
+def onference_badges(neme)
   name = [Edsger, Ada, Charles, Alan, Grace, Linus,  Matz]
+  name.each 
 end 
